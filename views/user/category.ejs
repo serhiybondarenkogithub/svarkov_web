@@ -1,0 +1,73 @@
+<%- include('../includes/head.ejs') %>
+
+	<section data-animation-scroll-self class="full-section section-gallery-greeting">
+		<div class="u-media-container section-gallery-greeting__background">
+			<img src="<%= mainphoto %>"/>
+		</div>
+		<div class="banner--filled section-gallery-greeting__banner">
+			<div class="u-media-container section-gallery-greeting__media">
+				<img class="" src="<%= mainphoto %>"/>
+			</div>
+			<h2 class="typography__h2--contrast banner__media section-gallery-greeting__heading">
+				<%= name %><br>
+				<span class="u-highlight-text"> SVARKOV</span>
+			</h2>
+			<p data-animation-scroll class="typography__text--contrast typography__text--big banner__text section-gallery-greeting__text">
+				<% for (let des of description) { %>
+					<%= des %><br>
+				<% } %>
+			</p>
+			<a href="#projects" class="typography__text-btn--contrast banner__action u-arrow-after section-team__action">
+				До проектів
+			</a>	
+		</div>
+	</section>
+	<section class="center-section section-news-and-blog-list" id="projects">
+		<div class="section-news-and-blog-list__container">
+			<% if (items.length > 0) { %>
+				<% for (let item of items) { %>
+					<div data-animation-slide-up class="card">
+						<div class="u-media-container card__media">
+							<img src="<%= item.mainphoto %>" alt="<%= item.name %>">
+						</div>
+						<a href="#popup-<%= item.id %>" class="typography__h3 card__heading">
+							<%= item.name %>
+						</a>
+						<p class="typography__text card__text">
+							<% for (let param of item.parameters) { %>
+								<b><%= param.key %>:</b> <%= param.value %><br>
+							<% } %>
+						</p>
+					</div>
+				<% } %>
+		<% } else { %>
+				<h1>No Products Found!</h1>
+		<% } %>
+	</section>
+
+	<% for (let item of items) { %>
+		<div class="popup" id="popup-<%= item.id %>">
+			<div class="popup__window">
+				<a href="#next" class="popup__close">
+					<svg class="socials__icon">
+						<use xlink:href="imgs/sprite.svg#icon-close"></use>
+					</svg>
+				</a>
+				<div data-swiper-gallery class="swiper popup__swiper">
+					<div class="swiper-wrapper section-gallery__swiper-wrapper">
+						<% for (let ref of item.mediarefs) { %>
+							<div class="swiper-slide section-gallery__slide">
+								<img src="<%= ref %>" alt="">
+							</div>
+						<% } %>
+					</div>
+				</div>
+				<div class="section-gallery__controll">
+					<div data-animation-scroll-item-up data-swiper-gallery-next class="swiper-button-next"></div>
+					<div data-animation-scroll-item-up data-swiper-gallery-prev class="swiper-button-prev"></div>
+				</div>
+			</div>
+		</div>
+	<% } %>
+
+<%- include('../includes/end.ejs') %>

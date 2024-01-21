@@ -1,0 +1,1285 @@
+[
+	{
+		"id": "avtonavisy",
+		"name": "Аатомобільлі навіси",
+		"mainphoto": "imgs/avtonavisy/berezivka/IMG-1837.jpg",
+		"description": [
+			"За 11 років ми виконали понад 1000 об'єктів і накрили 22300 кв.м. навісів. Ми виробляємо навіси для автомобіля з покриттям:",
+			"- монолітним і стільниковим полікарбонатом",
+			"- бетонуємо закладні стовпи для установки навісів при їх відсутності",
+			"______________",
+			"Наші спеціалісти допоможуть Вам підібрати відповідний дизайн або виконати замовлення за Вашими малюнками та кресленнями."
+
+		],
+		"items": [
+			{
+				"id": "berezivka-1",
+				"name": "Березівка",
+				"coords": [47.2004667, 30.8964949],
+				"mainphoto": "imgs/avtonavisy/berezivka/IMG-1837.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/berezivka/IMG-1837.jpg",
+					"imgs/avtonavisy/berezivka/IMG-1832.jpg",
+					"imgs/avtonavisy/berezivka/IMG-1833.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "5.910"
+					},
+					{
+						"key": "Ширина",
+						"value": "5.800"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "berezivka-2",
+				"name": "Березівка",
+				"coords": [47.2004667, 30.8964949],
+				"mainphoto": "imgs/avtonavisy/berezivka-2/IMG-0040.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/berezivka-2/IMG-0040.jpg",
+					"imgs/avtonavisy/berezivka-2/IMG-0042.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "10.250"
+					},
+					{
+						"key": "Ширина",
+						"value": "5.500"
+					},
+					{
+						"key": "Покриття",
+						"value": "МП 4 бронза (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "blystavytsya-1",
+				"name": "Блиставиця",
+				"coords": [50.6006188, 30.1327141],
+				"mainphoto": "imgs/avtonavisy/blystavytsya/1.jpeg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/blystavytsya/1.jpeg",
+					"imgs/avtonavisy/blystavytsya/2.jpg",
+					"imgs/avtonavisy/blystavytsya/3.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "5.910"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.500"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "boryspil-1",
+				"name": "Бориспіль",
+				"coords": [50.3694779, 30.8710376],
+				"mainphoto": "imgs/avtonavisy/boryspil/IMG-4644.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/boryspil/IMG-4644.jpg",
+					"imgs/avtonavisy/boryspil/IMG-4645.jpg",
+					"imgs/avtonavisy/boryspil/IMG-4647.jpg",
+					"imgs/avtonavisy/boryspil/IMG-4651.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "7.200"
+					},
+					{
+						"key": "Ширина",
+						"value": "5.900"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.8 сірий (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "boryspil-2",
+				"name": "Бориспіль",
+				"coords": [50.3694779, 30.8710376],
+				"mainphoto": "imgs/avtonavisy/boryspil-2/IMG-4653.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/boryspil-2/IMG-4653.jpg",
+					"imgs/avtonavisy/boryspil-2/IMG-4654.jpg"	
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "6.300"
+					},
+					{
+						"key": "Ширина",
+						"value": "5.900"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "bortnychi-1",
+				"name": "Бортничі",
+				"coords": [50.3718449, 30.6521444],
+				"mainphoto": "imgs/avtonavisy/bortnychi/IMG-1996.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/bortnychi/IMG-1996.jpg",
+					"imgs/avtonavisy/bortnychi/IMG-1998.jpg",
+					"imgs/avtonavisy/bortnychi/IMG-2004.jpg",
+					"imgs/avtonavisy/bortnychi/IMG-2010.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "9.850"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.400"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.8 бронза колотий лід (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "hlevakha-1",
+				"name": "Глеваха",
+				"coords": [50.2585851,30.2805682],
+				"mainphoto": "imgs/avtonavisy/hlevakha/IMG-1669.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/hlevakha/IMG-1669.jpg",
+					"imgs/avtonavisy/hlevakha/IMG-5374.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "8.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "4.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПК-15 одностор.8019мат.Укр"
+					}
+				]
+			},
+			{
+				"id": "hoholiv-1",
+				"name": "Гоголів",
+				"coords": [50.5200647, 30.9697251],
+				"mainphoto": "imgs/avtonavisy/hoholiv/IMG-2345.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/hoholiv/IMG-2345.jpg",
+					"imgs/avtonavisy/hoholiv/IMG-2346.jpg",
+					"imgs/avtonavisy/hoholiv/IMG-2347.jpg",
+					"imgs/avtonavisy/hoholiv/IMG-2349.jpg",
+					"imgs/avtonavisy/hoholiv/IMG-2350.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "10.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.500"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПК-15 одностор.7024мат.Укр"
+					}
+				]
+			},
+			{
+				"id": "hora-1",
+				"name": "Гора",
+				"coords": [50.3708976, 30.8225716],
+				"mainphoto": "imgs/avtonavisy/hora/IMG-2114.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/hora/IMG-2114.jpg",
+					"imgs/avtonavisy/hora/IMG-2115.jpg",
+					"imgs/avtonavisy/hora/IMG-2116.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "8.900"
+					},
+					{
+						"key": "Ширина",
+						"value": "5.900"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "horenychi-1",
+				"name": "Гореничі",
+				"coords": [50.4195951, 30.1596586],
+				"mainphoto": "imgs/avtonavisy/horenychi/IMG-7906.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/horenychi/IMG-7906.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "7.880"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.800"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "dmytrivka-km-belhraviia-1",
+				"name": "Дмитрівка",
+				"coords": [50.4629172, 30.1261358],
+				"mainphoto": "imgs/avtonavisy/dmytrivka-km-belhraviia/IMG-2028.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/dmytrivka-km-belhraviia/IMG-2027.jpg",
+					"imgs/avtonavisy/dmytrivka-km-belhraviia/IMG-2028.jpg",
+					"imgs/avtonavisy/dmytrivka-km-belhraviia/IMG-2029.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "7.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "7.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПК-15 одностор.7024мат.Укр"
+					}
+				]
+			},
+			{
+				"id": "zabiria-1",
+				"name": "Забір'я",
+				"coords": [50.321365, 30.2070483],
+				"mainphoto": "imgs/avtonavisy/zabiria/IMG-1531.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/zabiria/IMG-1531.jpg",
+					"imgs/avtonavisy/zabiria/IMG-1532.jpg",
+					"imgs/avtonavisy/zabiria/IMG-1533.jpg",
+					"imgs/avtonavisy/zabiria/IMG-1534.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "10.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "4.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПК-15 одностор.7024мат.Укр"
+					}
+				]
+			},
+			{
+				"id": "zabiria-2",
+				"name": "Забір'я",
+				"coords": [50.321365, 30.2070483],
+				"mainphoto": "imgs/avtonavisy/zabiria-2/IMG-2221.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/zabiria-2/IMG-2221.jpg",
+					"imgs/avtonavisy/zabiria-2/IMG-2224.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "5.910"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.200"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "irpin-1",
+				"name": "Ірпінь",
+				"coords": [50.5138968,30.1607679],
+				"mainphoto": "imgs/avtonavisy/irpin/IMG-0099.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/irpin/IMG-0099.jpg",
+					"imgs/avtonavisy/irpin/IMG-0101.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "6.800"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.300"
+					},
+					{
+						"key": "Покриття",
+						"value": "СП 10 бронза"
+					}
+				]
+			},
+			{
+				"id": "kyiv-1",
+				"name": "Київ",
+				"coords": [50.45466, 30.5238],
+				"mainphoto": "imgs/avtonavisy/kyiv/IMG-1571.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/kyiv/IMG-1571.jpg",
+					"imgs/avtonavisy/kyiv/IMG-1572.jpg",
+					"imgs/avtonavisy/kyiv/IMG-1573.jpg",
+					"imgs/avtonavisy/kyiv/IMG-1574.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "20.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.800"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПК-15 одностор.7024мат.Укр"
+					}
+				]
+			},
+			{
+				"id": "kyiv-zhulyany",
+				"name": "Київ",
+				"coords": [50.45466, 30.5238],
+				"mainphoto": "imgs/avtonavisy/kyiv-zhulyany/F3D1C33F-2596-4A56-8AAE-B9FEBFB5C72E.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/kyiv-zhulyany/F3D1C33F-2596-4A56-8AAE-B9FEBFB5C72E.jpg",
+					"imgs/avtonavisy/kyiv-zhulyany/IMG-3913.jpg",
+					"imgs/avtonavisy/kyiv-zhulyany/IMG-3915.jpg",
+					"imgs/avtonavisy/kyiv-zhulyany/IMG-3917.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "10.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "8.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "kyiv-protasiv-yar",
+				"name": "Київ",
+				"coords": [50.45466, 30.5238],
+				"mainphoto": "imgs/avtonavisy/kyiv-protasiv-yar/IMG-1962.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/kyiv-protasiv-yar/IMG-1962.jpg",
+					"imgs/avtonavisy/kyiv-protasiv-yar/IMG-1963.jpg",
+					"imgs/avtonavisy/kyiv-protasiv-yar/IMG-1978.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "7.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.8 прозорий (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "kyiv-rusaniski-sadu",
+				"name": "Київ",
+				"coords": [50.45466, 30.5238],
+				"mainphoto": "imgs/avtonavisy/kyiv-rusaniski-sadu/IMG-1632.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/kyiv-rusaniski-sadu/IMG-1632.jpg",
+					"imgs/avtonavisy/kyiv-rusaniski-sadu/IMG-1633.jpg",
+					"imgs/avtonavisy/kyiv-rusaniski-sadu/IMG-1634.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "5.910"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.200"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "knyazhychi",
+				"name": "Княжичі",
+				"coords": [50.46250000, 30.78361110],
+				"mainphoto": "imgs/avtonavisy/knyazhychi/IMG-2032.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/knyazhychi/IMG-2032.jpg",
+					"imgs/avtonavisy/knyazhychi/IMG-1604.jpg",
+					"imgs/avtonavisy/knyazhychi/IMG-2031.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "7.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "7.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПК-15 одностор. вишняУкр"
+					}
+				]
+			},
+			{
+				"id": "kozyn",
+				"name": "Козин",
+				"coords": [50.21931,30.65394],
+				"mainphoto": "imgs/avtonavisy/kozyn/IMG-1224.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/kozyn/IMG-0306.jpg",
+					"imgs/avtonavisy/kozyn/IMG-0310.jpg",
+					"imgs/avtonavisy/kozyn/IMG-0312.jpg",
+					"imgs/avtonavisy/kozyn/IMG-1224.jpg",
+					"imgs/avtonavisy/kozyn/IMG-1227.jpg",
+					"imgs/avtonavisy/kozyn/IMG-1230.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "15.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "7.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "koncha-zaspa",
+				"name": "Конча Заспа",
+				"coords": [50.2964856, 30.5739212],
+				"mainphoto": "imgs/avtonavisy/koncha-zaspa/IMG-5812.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/koncha-zaspa/IMG-5812.jpg",
+					"imgs/avtonavisy/koncha-zaspa/IMG-5813.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "11.820"
+					},
+					{
+						"key": "Ширина",
+						"value": "7.300"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "kryukivschyna",
+				"name": "Крюківщина",
+				"coords": [50.3714833, 30.3390403],
+				"mainphoto": "imgs/avtonavisy/kryukivschyna/IMG-2944.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/kryukivschyna/IMG-2944.jpg",
+					"imgs/avtonavisy/kryukivschyna/IMG-2945.jpg",
+					"imgs/avtonavisy/kryukivschyna/IMG-2969.jpg",
+					"imgs/avtonavisy/kryukivschyna/IMG-2976.jpg",
+					"imgs/avtonavisy/kryukivschyna/IMG-2979.jpg",
+					"imgs/avtonavisy/kryukivschyna/IMG-2981.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "10.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.800"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.8 сірий (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "mizhrichchya",
+				"name": "Міжріччя",
+				"coords": [49.1089252, 23.929013],
+				"mainphoto": "imgs/avtonavisy/mizhrichchya/IMG-1896.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/mizhrichchya/IMG-1896.jpg",
+					"imgs/avtonavisy/mizhrichchya/IMG-1897.jpg",
+					"imgs/avtonavisy/mizhrichchya/IMG-4206.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "8.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.700"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "mizhrichchya-2",
+				"name": "Міжріччя",
+				"coords": [49.1089252, 23.929013],
+				"mainphoto": "imgs/avtonavisy/mizhrichchya-2/IMG-2231.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/mizhrichchya-2/IMG-2231.jpg",
+					"imgs/avtonavisy/mizhrichchya-2/IMG-2232.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "12.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "4.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "mizhrichchya-3",
+				"name": "Міжріччя",
+				"coords": [49.1089252, 23.929013],
+				"mainphoto": "imgs/avtonavisy/mizhrichchya-3/IMG-1773.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/mizhrichchya-3/IMG-1773.jpg",
+					"imgs/avtonavisy/mizhrichchya-3/IMG-1775.jpg",
+					"imgs/avtonavisy/mizhrichchya-3/IMG-1777.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "5.900"
+					},
+					{
+						"key": "Ширина",
+						"value": "7.200"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "pidhirtsi",
+				"name": "Підгірці",
+				"coords": [49.9356222, 24.96426],
+				"mainphoto": "imgs/avtonavisy/pidhirtsi/IMG-2872.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/pidhirtsi/IMG-2872.jpg",
+					"imgs/avtonavisy/pidhirtsi/IMG-2873.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "5.910"
+					},
+					{
+						"key": "Ширина",
+						"value": "5.800"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "pidhirtsi-2",
+				"name": "Підгірці",
+				"coords": [49.9356222, 24.96426],
+				"mainphoto": "imgs/avtonavisy/pidhirtsi-2/IMG-3561.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/pidhirtsi-2/IMG-3561.jpg",
+					"imgs/avtonavisy/pidhirtsi-2/IMG-3562.jpg",
+					"imgs/avtonavisy/pidhirtsi-2/IMG-3564.jpg",
+					"imgs/avtonavisy/pidhirtsi-2/IMG-3566.jpg",
+					"imgs/avtonavisy/pidhirtsi-2/IMG-3567.jpg",
+					"imgs/avtonavisy/pidhirtsi-2/IMG-3568.jpg",
+					"imgs/avtonavisy/pidhirtsi-2/IMG-3569.jpg",
+					"imgs/avtonavisy/pidhirtsi-2/IMG-3574.jpg",
+					"imgs/avtonavisy/pidhirtsi-2/IMG-3575.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "9.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "7.200"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.8 сірий (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "pohreby",
+				"name": "Погреби",
+				"coords": [50.5516663, 30.6155301],
+				"mainphoto": "imgs/avtonavisy/pohreby/IMG-0260.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/pohreby/IMG-0260.jpg",
+					"imgs/avtonavisy/pohreby/IMG-0262.jpg",
+					"imgs/avtonavisy/pohreby/IMG-4121.jpg",
+					"imgs/avtonavisy/pohreby/IMG-4127.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "9.850"
+					},
+					{
+						"key": "Ширина",
+						"value": "7.500"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "putrivka",
+				"name": "Путрівка",
+				"coords": [50.2070597, 30.2553075],
+				"mainphoto": "imgs/avtonavisy/putrivka/0d28aa77-fc96-42a8-bf7c-1b3424ef11d0.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/putrivka/0d28aa77-fc96-42a8-bf7c-1b3424ef11d0.jpg",
+					"imgs/avtonavisy/putrivka/8e04dbac-5278-4ab3-9e89-5c41a9ad1f23.jpg",
+					"imgs/avtonavisy/putrivka/192c4821-6f4f-4ba2-a8e6-67c42c5f64bc.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "11.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "7.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПК-15 одностор.8019мат.Укр"
+					}
+				]
+			},
+			{
+				"id": "romankiv",
+				"name": "Романків",
+				"coords": [50.2342682,30.5515259],
+				"mainphoto": "imgs/avtonavisy/romankiv/IMG-0015.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/romankiv/IMG-0015.jpg",
+					"imgs/avtonavisy/romankiv/IMG-0017.jpg",
+					"imgs/avtonavisy/romankiv/IMG-0029.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "6.300"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.800"
+					},
+					{
+						"key": "Покриття",
+						"value": "СП 10 бронза"
+					}
+				]
+			},
+			{
+				"id": "skybyn",
+				"name": "Скибин",
+				"coords": [50.5809939, 30.8205234],
+				"mainphoto": "imgs/avtonavisy/skybyn/9922EB13-7BDB-4B4A-B7D4-6CEB321A6560.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/skybyn/9922EB13-7BDB-4B4A-B7D4-6CEB321A6560.jpg",
+					"imgs/avtonavisy/skybyn/66F6A231-17BB-4E7D-B10A-50D3DCAA41A9.jpg",
+					"imgs/avtonavisy/skybyn/IMG-4551.jpg",
+					"imgs/avtonavisy/skybyn/IMG-4552.jpg",
+					"imgs/avtonavisy/skybyn/IMG-4553.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "8.400"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПК-15 двостор.7024мат.Укр"
+					}
+				]
+			},
+			{
+				"id": "chabany",
+				"name": "Чабани",
+				"coords": [50.3405061,30.4120167],
+				"mainphoto": "imgs/avtonavisy/chabany/IMG-0387.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/chabany/IMG-0387.jpg",
+					"imgs/avtonavisy/chabany/IMG-0389.jpg",
+					"imgs/avtonavisy/chabany/IMG-4737.jpg",
+					"imgs/avtonavisy/chabany/IMG-4743.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "5.910"
+					},
+					{
+						"key": "Ширина",
+						"value": "4.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 бронза призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "schaslyve",
+				"name": "Щасливе",
+				"coords": [50.3707474, 30.7757049],
+				"mainphoto": "imgs/avtonavisy/schaslyve/IMG-1104.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/schaslyve/IMG-0005.jpg",
+					"imgs/avtonavisy/schaslyve/IMG-0009.jpg",
+					"imgs/avtonavisy/schaslyve/IMG-1104.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "25.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "7.500"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.8 срібло (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "schaslyve-2",
+				"name": "Щасливе",
+				"coords": [50.3707474, 30.7757049],
+				"mainphoto": "imgs/avtonavisy/schaslyve-2/IMG-4373.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/avtonavisy/schaslyve-2/IMG-4373.jpg",
+					"imgs/avtonavisy/schaslyve-2/IMG-4374.jpg",
+					"imgs/avtonavisy/schaslyve-2/IMG-4375.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "6.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "Металочерепиця"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "konstructsiyi",
+		"name": "Конструкції",
+		"mainphoto": "imgs/konstructsiyi/main.jpg",
+		"description": "",
+		"items": [
+			{
+				"id": "brovary-1-1",
+				"name": "Бровари",
+				"coords": [50.5097475, 30.7597225],
+				"mainphoto": "imgs/konstructsiyi/brovary/alfa-1.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/konstructsiyi/brovary/alfa-1.jpg",
+					"imgs/konstructsiyi/brovary/alfa-2.jpg",
+					"imgs/konstructsiyi/brovary/alfa-3.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Назва",
+						"value": "Металева вивіска для приватної клініки"
+					}
+				]
+			},
+			{
+				"id": "vyshenky-1-1",
+				"name": "Вишеньки",
+				"coords": [50.2964988, 30.6854028],
+				"mainphoto": "imgs/konstructsiyi/vyshenky/1.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/konstructsiyi/vyshenky/1.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Назва",
+						"value": "Металева конструкція тераси"
+					}
+				]
+			},
+			{
+				"id": "kyiv-protasiv-yar-1-1",
+				"name": "Київ",
+				"coords": [50.4015698, 30.2030561],
+				"mainphoto": "imgs/konstructsiyi/kyiv-protasiv-yar/IMG-1967.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/konstructsiyi/kyiv-protasiv-yar/IMG-1967.jpg",
+					"imgs/konstructsiyi/kyiv-protasiv-yar/IMG-1971.jpg",
+					"imgs/konstructsiyi/kyiv-protasiv-yar/IMG-1974.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Назва",
+						"value": "Металева конструкція навісу"
+					}
+				]
+			},
+			{
+				"id": "tatsenky-1-1",
+				"name": "Таценки",
+				"coords": [50.15932, 30.6641971],
+				"mainphoto": "imgs/konstructsiyi/tatsenky/IMG-2887.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/konstructsiyi/tatsenky/IMG-2887.jpg",
+					"imgs/konstructsiyi/tatsenky/IMG-2888.jpg",
+					"imgs/konstructsiyi/tatsenky/IMG-2889.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Назва",
+						"value": "Металева конструкція навісу"
+					}
+				]
+			},
+			{
+				"id": "schastlyve-1-1",
+				"name": "Щасливе",
+				"coords": [50.3707474, 30.7757049],
+				"mainphoto": "imgs/konstructsiyi/schastlyve/1625141186907757.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/konstructsiyi/schastlyve/1625141186907757.jpg",
+					"imgs/konstructsiyi/schastlyve/1625141202801877.jpg",
+					"imgs/konstructsiyi/schastlyve/1625141215670138.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Назва",
+						"value": "Металева конструкція навісу"
+					}
+				]
+			},
+			{
+				"id": "schastlyve-1-2",
+				"name": "Щасливе",
+				"coords": [50.3707474, 30.7757049],
+				"mainphoto": "imgs/konstructsiyi/schastlyve-2/IMG-1619.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/konstructsiyi/schastlyve-2/IMG-1619.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Назва",
+						"value": "Опірні конструкції для даху"
+					}
+				]
+			},
+			{
+				"id": "schastlyve-1-3",
+				"name": "Щасливе",
+				"coords": [50.3707474, 30.7757049],
+				"mainphoto": "imgs/konstructsiyi/schastlyve-3/IMG-3453.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/konstructsiyi/schastlyve-3/IMG-3453.jpg",
+					"imgs/konstructsiyi/schastlyve-3/IMG-3454.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Назва",
+						"value": "Дровник"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "peryla",
+		"name": "Перила",
+		"mainphoto": "imgs/peryla/main.jpg",
+		"description": "",
+		"items": [
+			{
+				"id": "tarasivka-2-1",
+				"name": "Тарасівка",
+				"coords": [50.3424382,30.3006495],
+				"mainphoto": "imgs/peryla/tarasivka/1-1.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/peryla/tarasivka/1-1.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Тип",
+						"value": "Перила на сходи"
+					},
+					{
+						"key": "Особливості",
+						"value": "Сучасний стиль"
+					}
+				]
+			},
+			{
+				"id": "havrylivka-2-1",
+				"name": "Гаврилівка",
+				"coords": [50.6801162, 30.193575],
+				"mainphoto": "imgs/peryla/havrylivka/3.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/peryla/havrylivka/1.jpg",
+					"imgs/peryla/havrylivka/2.jpg",
+					"imgs/peryla/havrylivka/3.jpg",
+					"imgs/peryla/havrylivka/4.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Тип",
+						"value": "Перила в будинок зі зрубу"
+					},
+					{
+						"key": "Особливості",
+						"value": "Рослинний орнамент"
+					}
+				]
+			},
+			{
+				"id": "brovary-2-1",
+				"name": "Бровари",
+				"coords": [50.5097475, 30.7597225],
+				"mainphoto": "imgs/peryla/brovary/IMG-7757.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/peryla/brovary/IMG-4494.jpg",
+					"imgs/peryla/brovary/IMG-4495.jpg",
+					"imgs/peryla/brovary/IMG-4500.jpg",
+					"imgs/peryla/brovary/IMG-4501.jpg",
+					"imgs/peryla/brovary/IMG-7756.jpg",
+					"imgs/peryla/brovary/IMG-7757.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Тип",
+						"value": "Перила на сходи"
+					},
+					{
+						"key": "Особливості",
+						"value": "Геометричний малюнок"
+					}
+				]
+			},			
+			{
+				"id": "zazymya-2-1",
+				"name": "Зазим'є",
+				"coords": [50.5820438, 30.6294155],
+				"mainphoto": "imgs/peryla/zazymya/1.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/peryla/zazymya/1.jpg",
+					"imgs/peryla/zazymya/2.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Тип",
+						"value": "Перила на чистові сходи"
+					},
+					{
+						"key": "Особливості",
+						"value": "Класика"
+					}
+				]
+			},
+			{
+				"id": "ivankovychi-2-1",
+				"name": "Іванковичі",
+				"coords": [50.2763502, 30.4067265],
+				"mainphoto": "imgs/peryla/ivankovychi/IMG-3881.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/peryla/ivankovychi/IMG-3880.jpg",
+					"imgs/peryla/ivankovychi/IMG-3881.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Тип",
+						"value": "Перила на балкон"
+					},
+					{
+						"key": "Особливості",
+						"value": "Сучасний стиль"
+					}
+				]
+			},
+			{
+				"id": "mezhyhirya-2-1",
+				"name": "Межигір'я",
+				"coords": [50.6199336, 30.4329431],
+				"mainphoto": "imgs/peryla/mezhyhirya/13-1.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/peryla/mezhyhirya/13-1.jpg",
+					"imgs/peryla/mezhyhirya/13-2.jpg",
+					"imgs/peryla/mezhyhirya/IMGP4398.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Тип",
+						"value": "Перила на вхідну групу"
+					},
+					{
+						"key": "Особливості",
+						"value": "Барокко"
+					}
+				]
+			},
+			{
+				"id": "obukhiv-2-1",
+				"name": "Обухів",
+				"coords": [50.1142426, 30.6067341],
+				"mainphoto": "imgs/peryla/obukhiv/IMG-3700.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/peryla/obukhiv/IMG-3700.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Тип",
+						"value": "Перила в баню на різьбовому з’єднанні"
+					},
+					{
+						"key": "Особливості",
+						"value": "Рослинний орнамент"
+					}
+				]
+			},
+			{
+				"id": "pidhirtsi-2-1",
+				"name": "Підгірці",
+				"coords": [49.9356222, 24.96426],
+				"mainphoto": "imgs/peryla/pidhirtsi/IMG-3703.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/peryla/pidhirtsi/IMG-3697.jpg",
+					"imgs/peryla/pidhirtsi/IMG-3703.jpg",
+					"imgs/peryla/pidhirtsi/IMG-3704.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Тип",
+						"value": "Перила на терасу"
+					},
+					{
+						"key": "Особливості",
+						"value": "Класика"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "shody",
+		"name": "Сходи",
+		"mainphoto": "imgs/shody/main.jpg",
+		"description": "",
+		"items": [
+			{
+				"id": "bezradychi-2-1",
+				"name": "Безрадичі",
+				"coords": [50.1877382, 30.5539471],
+				"mainphoto": "imgs/shody/bezradychi/IMG-1115.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/shody/bezradychi/IMG-1114.jpg",
+					"imgs/shody/bezradychi/IMG-1115.jpg",
+					"imgs/shody/bezradychi/IMG-1116.jpg",
+					"imgs/shody/bezradychi/IMG-1117.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Тип",
+						"value": "Каркас сходів"
+					},
+					{
+						"key": "Особливості",
+						"value": "на двох косоурах"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "vorota-parkany",
+		"name": "Ворота",
+		"mainphoto": "imgs/vorota-parkany/main.jpg",
+		"description": "",
+		"items": [
+			{
+				"id": "kyiv-zhuliany-3-1",
+				"name": "Київ",
+				"coords": [50.4015698, 30.2030561],
+				"mainphoto": "imgs/vorota-parkany/kyiv-zhuliany/IMG-4094.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/vorota-parkany/kyiv-zhuliany/IMG-4092.jpg",
+					"imgs/vorota-parkany/kyiv-zhuliany/IMG-4094.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Тип",
+						"value": "Секції паркану з прихованою хвірткою"
+					},
+					{
+						"key": "Ocoбливості",
+						"value": "металопрофіль"
+					}
+				]
+			}
+		]
+	}
+]
