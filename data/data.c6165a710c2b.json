@@ -912,6 +912,373 @@
 		]
 	},
 	{
+		"id": "terasy",
+		"name": "Навіси для тераси",
+		"mainphoto": "imgs/terasy/main.jpg",
+		"description": [],
+		"items": [
+			{
+				"id": "bezradychi",
+				"name": "Безрадичі",
+				"coords": [50.1877382, 30.5539471],
+				"mainphoto": "imgs/terasy/bezradychi/IMG-3758.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/bezradychi/IMG-3758.jpg",
+					"imgs/terasy/bezradychi/IMG-3761.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "6.900"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 прозорий призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "brovary",
+				"name": "Бровари",
+				"coords": [50.5097475, 30.7597225],
+				"mainphoto": "imgs/terasy/brovary/10-2.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/brovary/10-1.jpg",
+					"imgs/terasy/brovary/10-2.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "4.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "2.050"
+					},
+					{
+						"key": "Покриття",
+						"value": "МП 3 бронза (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "bucha",
+				"name": "Буча",
+				"coords": [50.5460719, 30.1371702],
+				"mainphoto": "imgs/terasy/bucha/IMG-5704.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/bucha/IMG-5704.jpg",
+					"imgs/terasy/bucha/IMG-5709.jpg",
+					"imgs/terasy/bucha/IMG-5748.jpg",
+					"imgs/terasy/bucha/IMG-5749.jpg",
+					"imgs/terasy/bucha/IMG-5751.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "5.440"
+					},
+					{
+						"key": "Ширина",
+						"value": "2.350"
+					},
+					{
+						"key": "Покриття",
+						"value": "EZ-Glaze 4мм сірий (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "dymer",
+				"name": "Димер",
+				"coords": [50.7791294, 30.2555958],
+				"mainphoto": "imgs/terasy/dymer/IMG-4425.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/dymer/IMG-4425.jpg",
+					"imgs/terasy/dymer/IMG-4426.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "6.900"
+					},
+					{
+						"key": "Ширина",
+						"value": "4.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.8 бронза колотий лід (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "hnidyn",
+				"name": "Гнідин",
+				"coords": [50.3299377, 30.6914499],
+				"mainphoto": "imgs/terasy/hnidyn/IMG-0576.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/hnidyn/IMG-0576.jpg",
+					"imgs/terasy/hnidyn/IMG-0578.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "6.900"
+					},
+					{
+						"key": "Ширина",
+						"value": "4.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.8 бронза колотий лід (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "horenychi",
+				"name": "Гореничі",
+				"coords": [50.4195951, 30.1596586],
+				"mainphoto": "imgs/terasy/horenychi/1.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/horenychi/1.jpg",
+					"imgs/terasy/horenychi/2.jpg",
+					"imgs/terasy/horenychi/3.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "6.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "6.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПК-15 одностор.0,45 синій (Україна)"
+					}
+				]
+			},
+			{
+				"id": "irpin",
+				"name": "Ірпінь",
+				"coords": [50.4195951, 30.1596586],
+				"mainphoto": "imgs/terasy/irpin/IMG-5589.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/irpin/IMG-5589.jpg",
+					"imgs/terasy/irpin/IMG-5591.jpg",
+					"imgs/terasy/irpin/IMG-5595.jpg",
+					"imgs/terasy/irpin/IMG-8565.jpg",
+					"imgs/terasy/irpin/IMG-8584.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "8.400"
+					},
+					{
+						"key": "Ширина",
+						"value": "3.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "EZ-Glaze 4мм сірий (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "katerynivka",
+				"name": "Катеринівка",
+				"coords": [50.7340271, 31.6206577],
+				"mainphoto": "imgs/terasy/katerynivka/IMG-8019.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/katerynivka/IMG-8019.jpg",
+					"imgs/terasy/katerynivka/IMG-8025.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "4.930"
+					},
+					{
+						"key": "Ширина",
+						"value": "3.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.9 прозорий призма (Італія)"
+					}
+				]
+			},
+			{
+				"id": "khodosivka",
+				"name": "Ходосіївка",
+				"coords": [50.2754011, 30.4898349],
+				"mainphoto": "imgs/terasy/khodosivka/IMG-2146.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/khodosivka/IMG-2146.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "2.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "1.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "МП 3 бронза (Ізраїль"
+					}
+				]
+			},
+			{
+				"id": "pidhirtsi",
+				"name": "Підгірці",
+				"coords": [49.9356222, 24.96426],
+				"mainphoto": "imgs/terasy/pidhirtsi/IMG-3571.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/pidhirtsi/IMG-3571.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "5.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "3.600"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.8 сірий (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "putrivka",
+				"name": "Путрівка",
+				"coords": [50.2070597, 30.2553075],
+				"mainphoto": "imgs/terasy/putrivka/1.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/putrivka/1.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "4.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "2.050"
+					},
+					{
+						"key": "Покриття",
+						"value": "МП 3 бронза (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "sofiivska",
+				"name": "Софіївська Борщагівка",
+				"coords": [50.407008, 30.3203543],
+				"mainphoto": "imgs/terasy/sofiivska/1.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/sofiivska/1.jpg",
+					"imgs/terasy/sofiivska/2.jpg",
+					"imgs/terasy/sofiivska/3.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "10.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "3.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПК-15 одностор.0,45 7024 (Україна)"
+					}
+				]
+			},
+			{
+				"id": "vyshhorod",
+				"name": "Вишгород",
+				"coords": [50.5843544, 30.4122084],
+				"mainphoto": "imgs/terasy/vyshhorod/1.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/vyshhorod/1.jpg",
+					"imgs/terasy/vyshhorod/2.jpg",
+					"imgs/terasy/vyshhorod/3.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "2.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "1.000"
+					},
+					{
+						"key": "Покриття",
+						"value": "МП 3 бронза (Ізраїль)"
+					}
+				]
+			},
+			{
+				"id": "boryspil",
+				"name": "Бориспіль",
+				"coords": [50.3694779, 30.8710376],
+				"mainphoto": "imgs/terasy/boryspil/IMG-4008.jpg",
+				"description": "",
+				"mediarefs": [
+					"imgs/terasy/boryspil/IMG-4008.jpg",
+					"imgs/terasy/boryspil/IMG-4014.jpg",
+					"imgs/terasy/boryspil/IMG-4019.jpg",
+					"imgs/terasy/boryspil/IMG-4020.jpg",
+					"imgs/terasy/boryspil/IMG-4023.jpg"
+				],
+				"parameters": [
+					{
+						"key": "Довжина",
+						"value": "10.000"
+					},
+					{
+						"key": "Ширина",
+						"value": "4.500"
+					},
+					{
+						"key": "Покриття",
+						"value": "ПП 0.8 солар контрол (Ізраїль)"
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "konstructsiyi",
 		"name": "Конструкції",
 		"mainphoto": "imgs/konstructsiyi/main.jpg",

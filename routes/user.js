@@ -7,6 +7,7 @@ const router = express.Router();
 router.get('/', userController.getIndex);
 
 router.get('/avtonavisy', userController.getCategoryPage);
+router.get('/terasy', userController.getCategoryPage);
 router.get('/konstructsiyi', userController.getCategoryPage);
 router.get('/peryla', userController.getCategoryPage);
 router.get('/shody', userController.getCategoryPage);
